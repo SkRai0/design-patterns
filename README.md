@@ -29,7 +29,9 @@ src/main/java/org/iamskrai/
 ├── BehaviouralPatterns/
 │   ├── StrategyPattern/
 │   ├── ObserverPattern/
-│   └── CommandPattern/
+│   ├── CommandPattern/
+│   ├── StatePattern/
+│   └── ChainOfResponsibilityPattern/
 └── StructuralPatterns/ (coming soon)
 ```
 
@@ -45,6 +47,8 @@ src/main/java/org/iamskrai/
 - [Strategy Pattern](src/main/java/org/iamskrai/BehaviouralPatterns/StrategyPattern/README.md)
 - [Observer Pattern](src/main/java/org/iamskrai/BehaviouralPatterns/ObserverPattern/README.md)
 - [Command Pattern](src/main/java/org/iamskrai/BehaviouralPatterns/CommandPattern/README.md)
+- [State Pattern](src/main/java/org/iamskrai/BehaviouralPatterns/StatePattern/README.md)
+- [Chain of Responsibility Pattern](src/main/java/org/iamskrai/BehaviouralPatterns/ChainOfResponsibilityPattern/README.md)
 
 ### 🧱 Structural Patterns
 - 🚧 In progress (will be added soon)
