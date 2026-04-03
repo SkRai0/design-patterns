@@ -33,7 +33,8 @@ src/main/java/org/iamskrai/
 │   ├── StatePattern/
 │   ├── ChainOfResponsibilityPattern/
 │   └── TemplatePattern/
-└── StructuralPatterns/ (coming soon)
+└── StructuralPatterns/
+	└── AdapterPattern/
 ```
 
 ## 📚 Pattern Index
@@ -53,7 +54,7 @@ src/main/java/org/iamskrai/
 - [Template Method Pattern](src/main/java/org/iamskrai/BehaviouralPatterns/TemplatePattern/README.md)
 
 ### 🧱 Structural Patterns
-- 🚧 In progress (will be added soon)
+- [Adapter Pattern](src/main/java/org/iamskrai/StructuralPatterns/AdapterPattern/README.md)
 
 ## ▶️ How to Run
 
